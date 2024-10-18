@@ -1,0 +1,17 @@
+.content { font-family: Franklin Gothic;
+}
+.footer { font-style: oblique;
+font-family: Franklin Gothic;
+}
+.sidebar {font-family: Franklin Gothic;
+color:rgb(255, 255, 255) ;
+}
+<style type="text/css">
+   BODY { background: #7666A1; margin: 50; }
+   .layout { width: 970px; margin: 0 auto 10px; background: #ADCCC2; }
+   .content { margin-right: 200px; padding: 10px; }
+   .sidebar { width: 400px; float: right; background: #7666a1; }
+   .footer {
+    clear: both; /* Отмена обтекания */
+    border-top: 1px solid #ccc; padding: 10px;
+   }
